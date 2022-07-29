@@ -28,3 +28,11 @@
 .look{
     margin: 20px;
 }
+.edu-col{
+    background-color: rgb(181, 224, 241);
+    height: fit-content;
+    margin: 3rem;
+}
+.edu-hi{
+        height: fit-content;
+}
